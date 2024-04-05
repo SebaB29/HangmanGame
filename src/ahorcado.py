@@ -1,5 +1,5 @@
 from random import choice
-from palabras import *
+from resources.palabras import *
 LETRA_OCULTA = "_"
 
 def crear_juego(palabra_elegida):

@@ -1,6 +1,6 @@
-from inter_grafica import *
-from ahorcado import *
-from letra import comprobar_letra
+from graphics.inter_grafica import *
+from src.ahorcado import *
+from src.letra import comprobar_letra
 
 def main():
     """..."""
