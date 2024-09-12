@@ -20,6 +20,6 @@ GRAPHICS:
 # Gráficos
 La interfaz gráfica se creo utilizando la librería extraída [Gamelib](https://github.com/dessaya/python-gamelib)
 
-![Hangman](https://github.com/SebaB29/HangmanGame/blob/main/img/hangman.jpg)
-![Ganaste](https://github.com/SebaB29/HangmanGame/blob/main/img/ganaste.jpg)
-![Perdiste](https://github.com/SebaB29/HangmanGame/blob/main/img/perdiste.jpg)
+![Hangman](img/hangman.jpg)
+![Ganaste](img/ganaste.jpg)
+![Perdiste](img/perdiste.jpg)
