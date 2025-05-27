@@ -1,4 +1,4 @@
-# Contribuir al proyecto Tetris 🎮
+# Contribuir al proyecto HangMan 🎮
 
 ¡Gracias por tu interés en contribuir! Este proyecto fue desarrollado como trabajo práctico universitario, pero cualquier mejora, corrección o idea es bienvenida.
 
