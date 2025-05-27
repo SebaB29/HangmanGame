@@ -11,8 +11,10 @@ Welcome to **Hangman**, a classic word-guessing game where players try to guess 
 - [File Structure](#file-structure)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 - [About This Project](#about)
+- [License](#license)
+- [Security](#security)
+- [Code of Conduct](#code-of-conduct)
 
 ## 🕹️ Features <a name="features"></a>
 
@@ -58,6 +60,14 @@ The project structure is as follows:
 
 ```
 Hangman/
+├── .github/
+│   ├── CODE_OF_CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   ├── SECURITY.md
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── PULL_REQUEST_TEMPLATE.md
 ├── graphics/
 │   ├── gamelib.py
 │   └── inter_gráfica.py
@@ -68,10 +78,10 @@ Hangman/
 ├── src/
 │   ├── ahoracado.py
 │   └── letra.py
-├── main.py
+├── .gitignore
 ├── LICENSE
-├── README.md
-└── .gitignore
+├── main.py
+└── README.md
 ```
 
 - **graphics/**: Contains libraries for rendering the game (gamelib and graphical logic).
@@ -97,10 +107,18 @@ Contributions are welcome! If you'd like to improve the game, feel free to fork 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
+## 📚 About This Project <a name="about"></a>
+
+This project is an implementation of the classic Hangman game in Python, focusing on game logic and graphical interface through structured programming principles.
+
 ## 📄 License <a name="license"></a>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📚 About This Project <a name="about"></a>
+## 🔐 Security <a name="security"></a>
 
-This project is an implementation of the classic Hangman game in Python, focusing on game logic and graphical interface through structured programming principles.
+If you discover a vulnerability, please review our [Security Policy](.github/SECURITY.md) for guidance on reporting.
+
+## 📜 Code of Conduct <a name="code-of-conduct"></a>
+
+Please read our [Code of Conduct](.github/CODE_OF_CONDUCT.md) to understand expected behavior.
